@@ -1,0 +1,60 @@
+================================================================================
+SUMMARY ANALYSIS REPORT
+================================================================================
+
+Input File: text_summarizer_data.csv
+Output File: summarized_text_summarizer_data.csv
+Processing Method: tfidf_simple
+Target Sentences: 3
+
+Total Rows Processed: 10,510
+Rows with Summaries: 10,510 (100.0%)
+Average Compression: 4.4%
+
+Summary Text Metrics:
+  char_count: 342.58
+  word_count: 65.22
+  sentence_count: 2.85
+  avg_word_length: 4.43
+  avg_sentence_length: 23.43
+  readability: 52.34
+
+================================================================================
+SAMPLE SUMMARIES
+================================================================================
+
+Sample 1 (Row 0):
+Title: Aegon Life iTerm plan helps you save tax & get cover for 100 yrs
+Original Length: 322 chars
+Summary Length: 322 chars
+Summary: Aegon Life iTerm insurance plan helps you save tax on premiums paid for over a century. With iTerm insurance plan, you get a life cover till the age of 100 years and can also save up to ₹46,800 on tax
+------------------------------------------------------------
+
+Sample 2 (Row 1):
+Title: I'm no more an orphan: Woman finds 103-yr-old mom after 61-yr search
+Original Length: 349 chars
+Summary Length: 349 chars
+Summary: An 81-year-old woman named Eileen Macken who grew up in a Dublin orphanage said she's not an orphan anymore after discovering her 103-year-old mother is alive after a 61-year-long search this month. S
+------------------------------------------------------------
+
+Sample 3 (Row 2):
+Title: Bulls**t: Krish on Kangana's claim of directing 70% of Manikarnika
+Original Length: 341 chars
+Summary Length: 341 chars
+Summary: 'Manikarnika: The Queen of Jhansi' co-director Krish, while speaking about Kangana Ranaut's claim that she directed 70% of the film, said, "It's bulls**t." "In the first-half of Manikarnika, 20-25% fi
+------------------------------------------------------------
+
+Sample 4 (Row 3):
+Title: Esha shares chat of friend calling footballer gorilla, apologises
+Original Length: 380 chars
+Summary Length: 380 chars
+Summary: Actress Esha Gupta has apologised on Twitter following criticism after she shared a screenshot of a chat with a friend, wherein the friend called Nigerian footballer Alexander Iwobi a gorilla. Esha ha
+------------------------------------------------------------
+
+Sample 5 (Row 4):
+Title: Pandya takes flying catch, 2 wickets on return after suspension
+Original Length: 346 chars
+Summary Length: 346 chars
+Summary: All-rounder Hardik Pandya took a flying catch to dismiss New Zealand captain Kane Williamson on his return to Team India playing XI in the third ODI today. Williamson came down the track and flicked t
+------------------------------------------------------------
+
